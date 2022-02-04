@@ -90,3 +90,7 @@ p{
   color: hsl(224, 23%, 55%);
   width: 100%;
 }
+
+.button_cancel:hover{
+  color: black;
+}
