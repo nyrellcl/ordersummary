@@ -36,19 +36,22 @@ p{
 }
 
 .plan-container{
-  display: inline-block;
-  margin: 0 auto;
-  background-color: hsl(224, 23%, 55%);
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  margin: 1rem 0;
+  background-color: hsl(225, 100%, 98%);
+  padding: 1rem 1rem;
   border-radius: 10px;
-  width: 100%;
 }
 
 .plan-container > img{
-  width: inherit;
-  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin-right: 5px;
 }
 .button{
-  background-color: hsl(223, 47%, 23%);
+  background-color: hsl(245, 75%, 52%);
   padding: 12px 22px;
   margin: 4px 2px;
   cursor: pointer;
