@@ -63,6 +63,7 @@ p{
 
 .text-1{
   display: flex;
+  justify-content: start;
 }
 .button_pay{
   color: white;
