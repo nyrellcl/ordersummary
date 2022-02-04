@@ -7,7 +7,7 @@
 body{
   background-image: url(pattern-background-desktop.svg);
   background-repeat: no-repeat;
-  margin-top: 100px;
+  margin-top: 200px;
 }
 img{
   width: 100%;
@@ -32,3 +32,16 @@ p{
   border-top-right-radius: 20px;
 }
 
+.plan-container{
+  display: block;
+  margin: 0 auto;
+  background-color: hsl(225, 100%, 94%);
+  border-radius: 10px;
+  width: 50%;
+}
+
+.plan-container > img{
+  width: inherit;
+  display: inline-block;
+}
+}
