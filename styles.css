@@ -66,6 +66,7 @@ p{
 
 .plan{
   display: flex;
+  flex-direction: column;
 }
 .button_pay{
   color: white;
