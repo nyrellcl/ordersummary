@@ -46,4 +46,14 @@ p{
   width: inherit;
   display: inline-block;
 }
+.button{
+  background-color: hsl(223, 47%, 23%);
+  padding: 12px 22px;
+  margin: 4px 2px;
+  cursor: pointer;
+  display: inline-block;
 }
+.button-pay{
+  color: white;
+}
+  
