@@ -66,9 +66,6 @@ p{
 
 .plan{
   display: flex;
-  padding-left: 30px;
-  margin-bottom 15px;
-  position: relative;
 }
 .button_pay{
   color: white;
