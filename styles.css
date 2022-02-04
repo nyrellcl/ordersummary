@@ -40,6 +40,7 @@ p{
   margin: 0 auto;
   background-color: hsl(224, 23%, 55%);
   border-radius: 10px;
+  width: 100%;
 }
 
 .plan-container > img{
