@@ -64,9 +64,8 @@ p{
   margin-right: 5px;
 }
 
-.text-1{
+.plan{
   display: flex;
-  justify-content: start;
 }
 .button_pay{
   color: white;
