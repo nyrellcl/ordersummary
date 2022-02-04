@@ -12,7 +12,7 @@ body{
 img{
   width: 100%;
 }
-h1, button{
+h1, p{
   text-align: center;
 }
 p{
@@ -21,7 +21,6 @@ p{
   font-weight: 500;
   margin-right: 25px;
   margin-left: 25px;
-  text-align: center;
 }
 .ord-container{
   background-color: hsl(0, 0%, 100%);
