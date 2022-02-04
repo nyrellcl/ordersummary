@@ -19,6 +19,10 @@ img{
 h1, p{
   text-align: center;
 }
+h1{
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
 p{
   font-size: 16px;
   color: hsl(225, 85%, 98%);
@@ -32,6 +36,7 @@ p{
     width: 375px;
     height: 465px;
     margin: 20px auto;
+  box-shadow: 0px 12px 44px -6px rgba(73. 98, 140, 0.75);
 }
 
 .ord-container > img{
