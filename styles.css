@@ -69,3 +69,12 @@ p{
   background-color: hsl(245, 75%, 52%);
 }
   
+.button_cancel{
+  padding: 0.5rem;
+  background: transparent;
+  border: none;
+  font-weight: 700;
+  cursor: pointer; 
+  color: hsl(224, 23%, 55%);
+  width: 100%;
+}
