@@ -65,7 +65,7 @@ p{
 }
 
 .plan{
-  display: flex;
+  display: inline-block;
 }
 .button_pay{
   color: white;
