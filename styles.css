@@ -57,6 +57,7 @@ p{
   background-color: hsl(225, 100%, 98%);
   padding: 1rem 1rem;
   border-radius: 10px;
+  width: 100%;
 }
 
 .plan-container > img{
