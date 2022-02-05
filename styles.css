@@ -65,9 +65,10 @@ p{
   margin-right: 5px;
 }
 
-.plan{
-  display: flex;
-  flex-direction: column;
+.price{
+  width: 100%;
+  text-align: left;
+  margin-left: 15px;
 }
 .button_pay{
   color: white;
