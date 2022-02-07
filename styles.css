@@ -110,3 +110,12 @@ p.plan {
 .button_cancel:hover{
   color: black;
 }
+
+@media only screen and (min-width: 375px){
+  .plan-container{
+    margin: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+    
