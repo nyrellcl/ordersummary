@@ -79,6 +79,7 @@ p.plan {
     justify-content: flex-start;
     align-content: center;
     margin: 0;
+  color: hsl(224, 23%, 55%);
 }
 .button_pay{
   color: white;
