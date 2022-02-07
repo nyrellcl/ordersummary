@@ -111,11 +111,4 @@ p.plan {
   color: black;
 }
 
-@media only screen and (min-width: 375px){
-  .ord-container{
-    margin: 15px;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-}
-    
+  
