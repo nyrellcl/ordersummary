@@ -72,11 +72,12 @@ p{
   text-align: left;
  
 }
-.plan > p{
-  width: inherit;
-  display: flex; 
-  justify-content: flex-start;
-  align-content: center;
+p.plan {
+    width: 75%;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    margin: 0;
 }
 .button_pay{
   color: white;
