@@ -71,6 +71,12 @@ p{
   text-align: left;
  
 }
+.plan > p{
+  width: inherit;
+  display: flex; 
+  justify-content: flex-start;
+  align-content: center;
+}
 .button_pay{
   color: white;
   font-weight: 700;
